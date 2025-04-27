@@ -205,7 +205,9 @@ Utilizamos ele para que as chamadas da API (com o Retrofit) ocorram de forma ass
 
 ## Imagens para Evidência de Funcionamento do App
 - Antes de clicar no botão "Atualizar"
+  
 ![image](https://github.com/user-attachments/assets/d4f9ed15-ff4a-46fd-a42c-d1d056e7fc56)
 
 - Ao clicar no botão "Atualizar"
+  
 ![image](https://github.com/user-attachments/assets/46cc1ce3-af3e-4a9a-a72e-7c1280cdc03a)
